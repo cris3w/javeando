@@ -1,4 +1,4 @@
-package CoreJava8;
+package com.examples.CoreJava8;
 
 // Functional Interfaces in Java 8
 // http://www.baeldung.com/java-8-functional-interfaces

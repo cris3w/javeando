@@ -1,4 +1,4 @@
-package CoreJava8;
+package com.examples.CoreJava8;
 
 import java.util.function.Function;
 

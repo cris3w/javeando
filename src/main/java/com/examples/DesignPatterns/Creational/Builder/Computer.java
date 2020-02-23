@@ -1,4 +1,4 @@
-package DesignPatterns.Creational.Builder;
+package com.examples.DesignPatterns.Creational.Builder;
 
 public class Computer {
 

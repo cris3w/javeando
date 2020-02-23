@@ -1,4 +1,4 @@
-package DesignPatterns.Creational.Builder;
+package com.examples.DesignPatterns.Creational.Builder;
 
 // https://www.journaldev.com/1425/builder-design-pattern-in-java
 

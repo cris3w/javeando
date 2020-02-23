@@ -1,4 +1,4 @@
-package CoreJava.Enums;
+package com.examples.CoreJava.Enums;
 
 import org.junit.Test;
 
