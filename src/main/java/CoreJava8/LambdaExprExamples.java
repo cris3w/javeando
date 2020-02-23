@@ -23,7 +23,7 @@ class FooImp {
     }
 }
 
-public class LambdaExpressionsExample {
+public class LambdaExprExamples {
 
     public static void main(String[] args) {
         FooImp foo = new FooImp();

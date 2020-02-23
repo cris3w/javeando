@@ -14,7 +14,7 @@ import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
-public class FunctionalInterfacesExample {
+public class FuncInterfacesExamples {
 
     public static void main(String[] args) {
         Map<String, Integer> salaries = new HashMap<>();
